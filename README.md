@@ -1,5 +1,7 @@
 # 🌱 RobloxGrowGarden 🌟  
 
+![Vista Previa](https://i.imgur.com/CJ4JQQ5.jpeg)  
+
 ![Visitantes: 15K+](https://img.shields.io/badge/Visitantes-15K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db) ![Descargas: 10K+](https://img.shields.io/badge/Descargas-10K+-00cc00)  
 
 **🌈 ¡Cultiva Mundos Mágicos en Minutos!**  
@@ -42,11 +44,11 @@ RobloxGrowGarden es exclusivamente para uso local en Roblox Studio (modo de un s
 
 **📸 Captura de Pantalla**  
 **¡Mira RobloxGrowGarden en Acción!** 🎥  
-![Vista Previa](https://i.sooftcdn.com/screen/es/robloxgrowgarden.png)  
+![Vista Previa](https://i.imgur.com/7kqzXh2.png)  
 *¡Crea jardines vibrantes llenos de vida en Roblox Studio!* 🌱  
 
 **¡Un mundo natural que cobra vida ante tus ojos!** 🌿  
-![Vista Previa 2](https://i.sooftcdn.com/screen/es/robloxgrowgarden2.png)  
+![Vista Previa 2](https://i.imgur.com/vrNCCYU.png)  
 *¡Explora paisajes mágicos que puedes diseñar en minutos!* 🌸  
 
 **🤗 Únete y Colabora**  
